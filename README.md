@@ -1,7 +1,7 @@
-# School_District_Analysis
+# School District Analysis
 
-## Overview of the school district analysis:
-The purpose of this analysis is well defined
+## Overview of the school district analysis
+The purpose of this analysis is well defined.
 
 
 ## Results
